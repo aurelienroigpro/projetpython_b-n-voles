@@ -1,0 +1,35 @@
+Date,Nom,Prénom,Sexe,Date de naissance,Code postal,Ville,numéro de rue,Rue,Email,Téléphone,Disponibilités,Compétences,Newsletter
+2023-05-17 14:23:56,Martin,Claire,Femme,1989-04-12,75012,Paris,23,Rue de Reuilly,claire.martin@gmail.com,0612345678,Week-ends,Communication,Oui
+2024-11-02 09:45:12,Lefevre,Thomas,Homme,1992-08-23,69007,Lyon,18,Rue Garibaldi,thomas.lefevre@outlook.fr,0789456123,Soirs de semaine,Logistique,Non
+2023-02-28 18:12:03,Dubois,Emma,Femme,1995-01-17,31000,Toulouse,5,Rue du Taur,emma.dubois@yahoo.fr,0654789123,Vacances scolaires,Animation,Oui
+2025-07-15 21:30:44,Bernard,Lucas,Homme,1987-06-05,75000,Paris,42,Quai de la Fosse,lucas.bernard@live.fr,0778459632,Mercredis,Informatique,Oui
+2023-09-10 12:05:22,Petit,Julie,Femme,1998-12-29,13005,Marseille,12,Boulevard Baille,julie.petit@gmail.com,0698453214,Soirs et week-ends,Comptabilité,Non
+2024-01-23 16:47:55,Moreau,Hugo,Homme,1985-09-15,67000,Strasbourg,9,Rue des Orfèvres,hugo.moreau@free.fr,0668459741,Samedis,Organisation d’événements,Oui
+2025-03-19 10:22:31,Girard,Léa,Femme,1991-03-30,34000,Montpellier,27,Avenue Clémenceau,lea.girard@hotmail.fr,0678451212,Vacances d’été,Animation enfants,Oui
+2024-08-05 20:10:18,Laurent,Mathieu,Homme,1986-11-04,59000,Lille,15,Rue Nationale,mathieu.laurent@gmail.com,0647895412,Week-ends,Bricolage,Non
+2023-12-15 08:55:42,Garcia,Chloé,Femme,1994-02-20,75015,Paris,3,Rue Lecourbe,chloe.garcia@gmail.com,0665428741,Soirs,Graphisme,Oui
+2025-02-28 17:44:09,Rousseau,Julien,Homme,1990-07-08,33000,Bordeaux,8,Cours Victor Hugo,julien.rousseau@orange.fr,0612458796,Dimanches,Photographie,Oui
+2024-06-03 13:39:27,Mercier,Camille,Femme,1958-05-19,72000,Le Mans,24,Rue Gambetta,camille.mercier@gmail.com,0658412233,Soirs et samedis,Relations publiques,Oui
+2023-08-22 15:17:36,Dupont,Antoine,Homme,1993-09-22,64000,Pau,19,Rue Serviez,antoine.dupont@yahoo.fr,0678459654,Samedis matin,Cuisine collective,Non
+2024-10-14 09:03:51,Faure,Manon,Femme,1997-06-10,80000,Amiens,33,Rue Saint-Fuscien,manon.faure@gmail.com,0765123487,Week-ends,Accueil,Oui
+2023-04-30 19:50:15,Blanchard,Louis,Homme,1984-10-11,75000,Paris,20,Rue Saint-Jean,louis.blanchard@live.fr,0654789632,Lundi soir,Gestion de projet,Oui
+2025-01-18 11:28:42,Lambert,Sarah,Femme,1996-01-27,97400,Saint-Denis,17,Rue du Barachois,sarah.lambert@gmail.com,0692123456,Soirs de semaine,Couture,Non
+2023-07-25 21:12:05,Fontaine,Arthur,Homme,1959-03-03,21000,Dijon,12,Rue Verrerie,arthur.fontaine@gmail.com,0689547412,Week-ends,Informatique,Oui
+2024-09-09 16:55:33,Chevalier,Anaïs,Femme,1992-07-18,83000,Toulon,4,Avenue de la République,anais.chevalier@orange.fr,0645879632,Vacances,Danse,Oui
+2023-11-12 10:42:20,Gauthier,Nicolas,Homme,1977-11-05,38000,Grenoble,27,Rue Lesdiguières,nicolas.gauthier@gmail.com,0663214789,Soirs,Communication,Non
+2025-08-28 12:11:50,Morel,Elise,Femme,1963-12-16,35000,Rennes,31,Boulevard de la Liberté,elise.morel@gmail.com,0621548796,Samedis,Événementiel,Oui
+2024-05-06 18:29:03,Lefranc,Adrien,Homme,1965-02-25,45000,Orléans,21,Rue Royale,adrien.lefranc@gmail.com,0754123689,Week-ends,Sport encadrement,Oui
+2023-03-15 14:57:11,Caron,Inès,Femme,1990-08-14,54000,Nancy,10,Rue Saint-Georges,ines.caron@hotmail.fr,0689523147,Mercredis,Graphisme,Non
+2024-12-21 19:03:48,Roy,Quentin,Homme,1989-05-29,80000,Amiens,7,Rue Jules-Barni,quentin.roy@gmail.com,0678124596,Soirs,Aide administrative,Oui
+2023-06-08 09:17:33,Robin,Lucie,Femme,1994-04-06,69002,Lyon,5,Rue Mercière,lucie.robin@gmail.com,0698741254,Week-ends,Éducation,Oui
+2025-04-11 20:50:21,Colin,Ethan,Homme,1996-09-12,64000,Pau,44,Rue Marca,ethan.colin@gmail.com,0789451236,Vacances,Jardinage,Non
+2024-01-27 11:42:56,Vidal,Jeanne,Femme,1988-12-04,86000,Poitiers,18,Rue Magenta,jeanne.vidal@gmail.com,0678459988,Soirs et samedis,Chant,Oui
+2025-05-09 13:37:44,Guerin,Baptiste,Homme,1986-06-20,75000,Paris,26,Rue de la République,baptiste.guerin@gmail.com,0698456321,Week-ends,Mécanique,Oui
+2023-09-18 17:22:10,Noël,Clara,Femme,1991-10-08,37000,Tours,39,Rue Nationale,clara.noel@outlook.fr,0654789633,Dimanches,Cuisine,Non
+2024-03-03 15:12:07,Renaud,Victor,Homme,1985-01-17,59000,Lille,2,Rue du Molinel,victor.renaud@gmail.com,0645789965,Samedis,Musique,Oui
+2023-12-30 10:50:36,Marchand,Eva,Femme,1960-09-23,69008,Lyon,25,Rue de l’Université,eva.marchand@gmail.com,0678452314,Soirs,Théâtre,Oui
+2025-06-20 08:23:19,Aubert,Maxime,Homme,1963-04-01,31000,Toulouse,11,Rue de la Colombette,maxime.aubert@gmail.com,0659874123,Week-ends,Photographie,Non
+2025-08-31 22:17:43,marc-auréle,leromain,Homme,1989-07-11,75000,paris,8,de la chaine,marc-aur@gmail.com,0612502639,le weekend surtout,"situations de crise",Oui
+2025-10-31 23:04:05,alexis,hanchois,Homme,1995-10-18,75000,paris,45,de la chaine,alex.hanch@gmail.com,0751525859,le soir,communication,Oui
+2025-11-01 19:11:32,Willy,Nelson,Homme,1952-03-15,69003,Lyon,12,du lion,liondelyon@gmail.com,061215181945,vacances scolaires,Musique: guitare et chant,Oui
+2025-11-01 22:56:03,Dupont,jean,Homme,1992-10-06,75000,Paris,12,Rue de la chaine,jean.dupont@gmail.com,061262535968,le soir,informatique,Non
